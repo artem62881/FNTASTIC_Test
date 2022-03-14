@@ -1,0 +1,5 @@
+﻿  FNTASTIC_Test1.cpp
+D:\Git\workspaces\artem_local\FNTASTIC_Test\FNTASTIC_Test1\FNTASTIC_Test1.cpp(73,45): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Git\workspaces\artem_local\FNTASTIC_Test\FNTASTIC_Test1\FNTASTIC_Test1.cpp(99,45): warning C4227: anachronism used: qualifiers on reference are ignored
+D:\Git\workspaces\artem_local\FNTASTIC_Test\FNTASTIC_Test1\FNTASTIC_Test1.cpp(120,45): warning C4227: anachronism used: qualifiers on reference are ignored
+  FNTASTIC_Test1.vcxproj -> D:\Git\workspaces\artem_local\FNTASTIC_Test\FNTASTIC_Test1\Debug\FNTASTIC_Test1.exe
